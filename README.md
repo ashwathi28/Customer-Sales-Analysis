@@ -1,4 +1,4 @@
-# _Sales_Data_Analysis_
+# Customer-Sales-Analysis
 
 •	Performed data analysis on sales data using MySQL.	
 
